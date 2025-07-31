@@ -1,0 +1,49 @@
+# Build directory
+/target/
+
+# Maven-specific backups
+pom.xml.tag
+pom.xml.next
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Maven wrapper binary — opzionale ignorarlo se vuoi farlo scaricare dinamicamente
+.mvn/wrapper/maven-wrapper.jar
+
+# Wrapper shell scripts
+/mvnw
+/mvnw.cmd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+*.iml
+.idea/
+/*.iws
+/*.ipr
+.settings/
+.classpath
+.project
+
+# Compiled and archive files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Temp files
+*.log
+hs_err_pid*
+*~
+*.swp
